@@ -1,0 +1,32 @@
+.dropdown_design{
+    margin-top: -15px !important;
+    background-color: transparent;
+    margin-right: 12px;
+ }
+ .bg_nav{
+    background-color: #9b8a8f;
+    
+ }
+ .h1_color{
+    color: brown;
+ }
+ .h1_sub{
+    color: rgb(4, 118, 211);
+ }
+ .bg_color{
+    background-color: white;
+ }
+ .btn_bg{
+    background-color: rgb(4, 118, 211);
+ }
+ .left{
+   margin-left: 200px;
+ }
+ .patient{
+   padding-left: 130px;
+   height: 400px;
+   width: 300px;
+   border: solid 1px black;
+   background-image: url(img/patient.png);
+   background-size: cover;
+ }
