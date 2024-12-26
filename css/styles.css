@@ -3,6 +3,11 @@
     background-color: transparent;
     margin-right: 12px;
  } */
+
+
+ html, body{
+  overflow-x: hidden;
+ }
  .bg_nav{
     background-color: #afc2c5;
  }
@@ -211,6 +216,7 @@
   height: 74px;
   width: 74px;
 }
+
 
 
  
